@@ -2,10 +2,10 @@
 
 1. What does the Confession mean by: "the former ways of God's revealing Himself unto His Church are now ceased" (1.1)?
 2.  What is meant by:
-	  * The necessity of Scripture?
-	  * The authority of Scripture?
-	  * The sufficiency of Scripture?
-	  * The clarity of Scripture?
+  * The necessity of Scripture?
+  * The authority of Scripture?
+  * The sufficiency of Scripture?
+  * The clarity of Scripture?
 3. **What is meant by good and necessary consequence?**
 
 Valid logical inferences that are consistent with the _regula fidei_.
