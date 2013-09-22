@@ -12,11 +12,11 @@ Valid logical inferences that are consistent with the _regula fidei_.
 
 4. **Show from Scripture the inerrancy and the inspiration of the Bible.**
 
-    * [Parable of the Rich Man and Lazarus (Lk 16:29)](http://www.esvbible.org/Luke+16%3A29/)
-    * [Emmaus Walk (Lk 24:27)](http://www.esvbible.org/Luke+24%3A27)
-    * [Paul: All Scripture is God-breathed (2 Tim 3:15-17)](http://www.esvbible.org/2+Timothy+3%3A15-17/)
-    * [Peter: Paul's stuff is hard (2 Pet 3:16)](http://www.esvbible.org/2+Peter+3%3A16/)
-    * [Paul pointing back to OT (Rom 15:4)](http://www.esvbible.org/Romans+15%3A4/)
+  * [Parable of the Rich Man and Lazarus (Lk 16:29)](http://www.esvbible.org/Luke+16%3A29/)
+  * [Emmaus Walk (Lk 24:27)](http://www.esvbible.org/Luke+24%3A27)
+  * [Paul: All Scripture is God-breathed (2 Tim 3:15-17)](http://www.esvbible.org/2+Timothy+3%3A15-17/)
+  * [Peter: Paul's stuff is hard (2 Pet 3:16)](http://www.esvbible.org/2+Peter+3%3A16/)
+  * [Paul pointing back to OT (Rom 15:4)](http://www.esvbible.org/Romans+15%3A4/)
 
 5. Does inspiration mean that every part of Scripture is equally significant?
 6. **Does the authority of Scripture rest on the Church?**
@@ -27,11 +27,11 @@ Valid logical inferences that are consistent with the _regula fidei_.
 
 1. Support from Scripture the Deity and the Humanity of Jesus Christ.2. Is Jesus Yahweh (Jehovah)?3. **Support from Scripture the doctrine of the Trinity.**
 
-    * [God is One (Deut 6:4)](http://www.esvbible.org/Deuteronomy+6%3A4/)
-    * [Baptism of John (Mt 3:16-17))](http://www.esvbible.org/Matthew+3%3A16-17/)
-    * [Deity of Christ (John 1:14-18)](http://www.esvbible.org/John+1%3A14-18/)
-	* [Procession of Spirit (John 15:26)](http://www.esvbible.org/John+15%3A26/)
-	* [Proto-Trinitarianism in 1 Cor (1 Cor 12:4-6)](http://www.esvbible.org/1+Corinthians+12%3A4-6/)
+  * [God is One (Deut 6:4)](http://www.esvbible.org/Deuteronomy+6%3A4/)
+  * [Baptism of John (Mt 3:16-17))](http://www.esvbible.org/Matthew+3%3A16-17/)
+  * [Deity of Christ (John 1:14-18)](http://www.esvbible.org/John+1%3A14-18/)
+  * [Procession of Spirit (John 15:26)](http://www.esvbible.org/John+15%3A26/)
+  * [Proto-Trinitarianism in 1 Cor (1 Cor 12:4-6)](http://www.esvbible.org/1+Corinthians+12%3A4-6/)
 
 4. **Are you personally committed to doctrine of the Trinity?**
 
