@@ -45,7 +45,7 @@ The declaration of God in which he freely and immutably, from all eternity, orda
 3. Is God's election based upon foreknowledge?
 4. How do you understand Romans 9:18, 22-23?
 5. **Was Jesus' death predestined?**
-Yes.
+Yes. I take no position on the logical ordering of the fall and the death of Christ, but both events were ordained from all eternity.
 
 6. **How is the doctrine of Predestination important for assurance of salvation?**
 God ordains all states of affairs, including whether I will have saving faith. Thus my faith rests in God's decree, not in the quality of my faith or repentance.
