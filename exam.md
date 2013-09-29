@@ -158,9 +158,12 @@ Yes.
 
 1. Distinguish between the general call of the gospel and effectual calling.
 2. **Who are the subjects (initiator) of effectual calling? Who are the objects of?**
+The Father, the Son, and the Spirit are the subjects. The objects are elect sinners.
+
 3. What means does God use in calling His own unto Himself?
 4. State the ordo salutis as you understand it. (Calling, Regeneration, Justification, Sanctification, Glorification); Romans 8: 28-29.
 5. **Are you committed to the doctrine of irresistible grace?**
+Yes.
 
 
 ### Chapter 11: Justification
