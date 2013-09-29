@@ -71,6 +71,7 @@ Yes, although I think a good case can be made that the Westminster Divines affir
 ### Chapter 5: Providence
 1. **What are God's works of providence?**
 God's governing and upholding of the physical unviverse and directing the affairs of his creatures in it. Providence is distinguishable from God's degree, but not separable from it.
+
 2. To whom is 5.1-4 addressed compared to 5.5?
 3. How would you answer someone who says that if God controls everything, then things will turn out the same regardless of what we do?
 4. Support from Scripture that God "foreordains whatsoever comes to pass, controls and rules".
@@ -86,19 +87,31 @@ Yes.
 4. What is meant by imputation?
 5. How did the fall affect our will?
 6. **What is meant by total depravity?**
+Every part of the human person is affected by sin.
+
 7. **How am I involved in Adam's first sin?**
+God was pleased to represent all human beings in Adam, as if to federate the disposition of all people in one head. See [Romans 5:12-21](http://www.esvbible.org/Romans+5%3A12-21/).
+
 8. **Are you committed to the doctrine of Total Depravity?**
+Yes.
 
 
 ### Chapter 7: God's Covenant with Man
 
 1. What is a covenant in terms of God's relationship with man?
 2. **What is meant by the Covenant of Works?**
+The agreement God made with Adam wherein God would preserve Adam's life if Adam would obey God.
+
 3. **The Covenant of Grace?**
+The agreement God made with Adam wherein God would save Adam's race from their sin. Put in the language of the Larger Caetchism (question 30), God, "of his mere love and mercy delivers his elect out of it, and brings them into an estate of salvation."
+
 4. What are the various administrations of the covenant?
 5. What are the signs and seals of the Covenant?
 6. **Have your children been baptized?**
+All three of them, yo.
+
 7. **Are you committed to Covenant Theology?**
+Yes. I take this phrase to mean that "covenant" is a useful theological concept with which to explain redemptive history. A covenant is an agreement in which God engages with his people. Hisorically he has used locally recognizable forms to enact these covenants (e.g., [Gen 15:7-21](http://www.esvbible.org/Genesis+15%3A7-21/)).
 
 
 ### Chapter 8: Christ the Mediator
@@ -108,27 +121,49 @@ Yes.
 3. Why was it necessary that the Mediator be fully human as well as fully divine?
 4. Distinguish between the humiliation and exaltation of Christ.
 5. **Support from Scripture that Christ shed His blood only for the elect and truly accomplished their salvation.**
-6. **What is correct or incorrect about “the free offer of the Gospel?”**
+
+"Only for the elect" is substantially a systematic argument. Scripture speaks of Christ doing redeeming work on the cross, and we conclude that such redeeming work applies only to those who are actually saved, since effecting potential salvation for everyone is no work at all.
+
+[John 6:37](http://www.esvbible.org/John+6%3A37/): all the Father gives me will come to me.
+[Eph 1:4-8](http://www.esvbible.org/Ephesians+1%3A4-8/): predestined to be redeemed.
+[1 Tim 4:10](http://www.esvbible.org/1+Timothy+4%3A10/): savior of all people, especially those who believe
+
+
+6. **What is correct or incorrect about "the free offer of the Gospel?"**
+It is correct to offer the Gospel freely to all human beings. One cannot point to a random human and say, "Jesus died for you," but one can call that person to repent and believe in Christ.
+
 7. **Are you in agreement with the doctrine of particular redemption? (Limited atonement.)**
+Yes.
 
 
 ### Chapter 9: Free Will
  
 1. **Under what circumstances is man free and in what sense not free?**
+Man is free to do what he wants. Man is not free to do other than what God has ordained.
+
 2. Distinguish between free will and moral responsibility.
 3. What does Scripture teach concerning Total Inability?
 4. How is man's will involved in coming to salvation?
 5. **Cite the Five Points of Calvinism and give an explanation of each. (TULIP)**
-6. **Are you personally committed to the doctrine of Total Inability?**
+* Total Deprvaity: no part of the human person is unaffected by sin
+* Unconditional Election: God chooses those whom he would save apart from any merit in those people
+* Limited Atonement: the saving work of Christ applies specifically to the Elect
+* Irresitible Grace: once God calls a sinner, that sinner always responds
+* Persevereance of the Saints: once God makes a person spiritually alive, that person cannot spiritually die again
 
+6. **Are you personally committed to the doctrine of Total Inability?**
+Yes.
 
 ### Chapter 10 -- Effectual Calling
 
 1. Distinguish between the general call of the gospel and effectual calling.
 2. **Who are the subjects (initiator) of effectual calling? Who are the objects of?**
+The Father, the Son, and the Spirit are the subjects. The objects are elect sinners.
+
 3. What means does God use in calling His own unto Himself?
 4. State the ordo salutis as you understand it. (Calling, Regeneration, Justification, Sanctification, Glorification); Romans 8: 28-29.
 5. **Are you committed to the doctrine of irresistible grace?**
+Yes.
 
 
 ### Chapter 11: Justification
