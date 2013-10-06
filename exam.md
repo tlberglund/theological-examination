@@ -169,11 +169,22 @@ Yes.
 ### Chapter 11: Justification
  
 1. **Give a scriptural definition of justification.**
+A sinner believes God, and that faith is credited to the believer as righteousness. That is, the sin of the believer is exchanged with the righteousness of Christ as if in a legal transaction.
+
+See [Romans 4:1-8](http://www.esvbible.org/Romans+4%3A1-8/), [Eph 2:1-10](http://www.esvbible.org/Ephesians+2%3A1-10/), [Zech 3:1-3](http://www.esvbible.org/Zechariah+3%3A1-3/).
+
 2. **What is the “ground” of justification?**
+The righteousness of Christ.
+
 3. **How does faith relate to God's act of justification?**
+Faith is the instrumental cause of God's justification. It is the thing through which God performs the legal declaration that is justification.
+
 4.  Romans 4:1 gives Abraham as an example of justification by faith. James  2:22-23 says Abraham is an example of justification by works. Explain this apparent contradiction.
 5. **Distinguish between justification and sanctification. (LC 77)**
+Justification is God's declaration that a sinner is righteous, made because the sinner has faith in the work of Christ. It is monergistic. Justification is the work of the Holy Spirit and the believer in which the believer sins less over time. It is synergistic.
+
 6. **What does being justified by grace through faith mean in your life?**
+It means, despite my awful sin, I do not need to worry. God has saved _me_; I have not worked to save myself. It also means I can be confident in my justification, because I am able to be confident that I have faith. I cannot directly perceive God's legal accounts (as it were), but I do have incorrigible first-person access to my own mental states, and faith is among them.
 
 
 ### Chapter 12: Adoption
