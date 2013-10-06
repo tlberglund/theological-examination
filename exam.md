@@ -217,10 +217,15 @@ For a few minutes, sure; but not in the long term. [James 2:14-26](http://www.es
 ### Chapter 14: Saving Faith
 
 1. **Is saving faith an act of grace entirely?**
+Yes. Saving faith is an act I take, but I am only able to take it because God has sovereignly, graciously, monergistically made me able to do so.
+
 2. James 2:19 says even demons believe in God. Is this saving faith?
 3. **How does saving faith come to a person?**
+God grants it by grace ([Eph 2:1-10](http://www.esvbible.org/Ephesians+2%3A1-10/)). This is normally through the ministry of the Word, administration of the sacraments, prayer, and other means. God works apart from those means sometimes.
+
 4. What are the principal acts of saving faith?
 5. **Is assurance of faith possible for the believer in Christ?**
+Yes.
 
 
 ### Chapter 15: Repentance Unto Life
