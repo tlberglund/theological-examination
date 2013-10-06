@@ -231,10 +231,22 @@ Yes.
 ### Chapter 15: Repentance Unto Life
  
 1. **Is repentance a grace?**
+An evangelical one, even! The doctrine whereof is to be preached by every minister of the Gospel, as well as that of faith in Christ. (WCF Chapter 15).
+
 2. **Does a sense of sin lead to repentance? (Does it always? Does it necessarily?)**
+Repentance always follows a sense of sin, but not all experiences of the sense of sin lead to repentance. The reprobate may occasionally develop a sense of his own sin, but not repent. The elect feel a sense of their sin, and repent.
+
 3. **What are the elements of true repentance?**
+* Grieve for the sin
+* Hate it
+* Turn from it and to God
+* Intend not to do that again
+* Confess the sin particularly
+
+
 4. Is anyone pardoned without repentance?
 5. **What does man's sin deserve?**
+Death.
 
 
 ### Chapter 16: Good Works
