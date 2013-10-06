@@ -158,24 +158,43 @@ Yes.
 
 1. Distinguish between the general call of the gospel and effectual calling.
 2. **Who are the subjects (initiator) of effectual calling? Who are the objects of?**
+The Father, the Son, and the Spirit are the subjects. The objects are elect sinners.
+
 3. What means does God use in calling His own unto Himself?
 4. State the ordo salutis as you understand it. (Calling, Regeneration, Justification, Sanctification, Glorification); Romans 8: 28-29.
 5. **Are you committed to the doctrine of irresistible grace?**
+Yes.
 
 
 ### Chapter 11: Justification
  
 1. **Give a scriptural definition of justification.**
+A sinner believes God, and that faith is credited to the believer as righteousness. That is, the sin of the believer is exchanged with the righteousness of Christ as if in a legal transaction.
+
+See [Romans 4:1-8](http://www.esvbible.org/Romans+4%3A1-8/), [Eph 2:1-10](http://www.esvbible.org/Ephesians+2%3A1-10/), [Zech 3:1-3](http://www.esvbible.org/Zechariah+3%3A1-3/).
+
 2. **What is the “ground” of justification?**
+The righteousness of Christ.
+
 3. **How does faith relate to God's act of justification?**
+Faith is the instrumental cause of God's justification. It is the thing through which God performs the legal declaration that is justification.
+
 4.  Romans 4:1 gives Abraham as an example of justification by faith. James  2:22-23 says Abraham is an example of justification by works. Explain this apparent contradiction.
 5. **Distinguish between justification and sanctification. (LC 77)**
+Justification is God's declaration that a sinner is righteous, made because the sinner has faith in the work of Christ. It is monergistic. Justification is the work of the Holy Spirit and the believer in which the believer sins less over time. It is synergistic.
+
 6. **What does being justified by grace through faith mean in your life?**
+It means, despite my awful sin, I do not need to worry. God has saved _me_; I have not worked to save myself. It also means I can be confident in my justification, because I am able to be confident that I have faith. I cannot directly perceive God's legal accounts (as it were), but I do have incorrigible first-person access to my own mental states, and faith is among them.
 
 
 ### Chapter 12: Adoption
  
 1. **What privileges do the Children of God enjoy?**
+Quoting from WCF Chapter 12:
+
+    All those that are justified, God vouchsafes, in and for His only Son Jesus Christ, to make partakers of the grace of adoption, by which they are taken into the number, and enjoy the liberties and privileges of the children of God, have His name put upon them, receive the spirit of adoption, have access to the throne of grace with boldness,[5] are enabled to cry, Abba, Father,[6] are pitied,[7] protected,[8] provided for,[9] and chastened by Him as by a Father:[10] yet never cast off,[11] but sealed to the day of redemption;[12] and inherit the promises,[13] as heirs of everlasting salvation.[14]
+m
+
 2. What is the meaning of Romans 8:16-17?
 3. Are we true children of God if we are not chastened for disobedience?
 4. What is the significance of calling God Abba?
@@ -184,29 +203,50 @@ Yes.
 ### Chapter 13: Sanctification
  
 1. **How does Scripture (WSC) define sanctification?**
+Being in the likeness of Christ ([Romans 6:5](http://www.esvbible.org/Romans+6%3A5/)); having the old man crucified/destroying the body of sin ([Romans 6:6](http://www.esvbible.org/Romans+6%3A6/)); crucifying the flesh with its affections and lusts ([Gal 5:24](http://www.esvbible.org/Galatians+5%3A24/)); strengthened with all might, endurance, patience, joy; ([Col 1:11](http://www.esvbible.org/Colossians+1%3A11/)); bringing holiness to completion in the fear of God ([1 Cor 7:1](http://www.esvbible.org/2+Corinthians+7%3A1/)).
+
 2. What means does God use in sanctification?
 3. **Is sanctification of God’s grace entirely? What are the means of grace?**
+Sanctification is syngerstic, just as justification is monergistic. To be sanctified, I agree to participate in and cooperate with the means of grace: prayer, fellowship, the Sacraments, the Word (preached and read individually), singing, exhorting, etc.
+
 4. How is sanctification different from justification?
 5. How does the Law of God relate to my sanctification?
 6. **Can Christ be Savior yet not Lord over believer?**
-
+For a few minutes, sure; but not in the long term. [James 2:14-26](http://www.esvbible.org/James+2%3A14-26/) makes it clear that faith entails works also.
 
 ### Chapter 14: Saving Faith
 
 1. **Is saving faith an act of grace entirely?**
+Yes. Saving faith is an act I take, but I am only able to take it because God has sovereignly, graciously, monergistically made me able to do so.
+
 2. James 2:19 says even demons believe in God. Is this saving faith?
 3. **How does saving faith come to a person?**
+God grants it by grace ([Eph 2:1-10](http://www.esvbible.org/Ephesians+2%3A1-10/)). This is normally through the ministry of the Word, administration of the sacraments, prayer, and other means. God works apart from those means sometimes.
+
 4. What are the principal acts of saving faith?
 5. **Is assurance of faith possible for the believer in Christ?**
+Yes.
 
 
 ### Chapter 15: Repentance Unto Life
  
 1. **Is repentance a grace?**
+An evangelical one, even! The doctrine whereof is to be preached by every minister of the Gospel, as well as that of faith in Christ. (WCF Chapter 15).
+
 2. **Does a sense of sin lead to repentance? (Does it always? Does it necessarily?)**
+Repentance always follows a sense of sin, but not all experiences of the sense of sin lead to repentance. The reprobate may occasionally develop a sense of his own sin, but not repent. The elect feel a sense of their sin, and repent.
+
 3. **What are the elements of true repentance?**
+* Grieve for the sin
+* Hate it
+* Turn from it and to God
+* Intend not to do that again
+* Confess the sin particularly
+
+
 4. Is anyone pardoned without repentance?
 5. **What does man's sin deserve?**
+Death.
 
 
 ### Chapter 16: Good Works
