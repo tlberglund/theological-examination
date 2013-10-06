@@ -190,6 +190,11 @@ It means, despite my awful sin, I do not need to worry. God has saved _me_; I ha
 ### Chapter 12: Adoption
  
 1. **What privileges do the Children of God enjoy?**
+Quoting from WCF Chapter 12:
+
+    All those that are justified, God vouchsafes, in and for His only Son Jesus Christ, to make partakers of the grace of adoption, by which they are taken into the number, and enjoy the liberties and privileges of the children of God, have His name put upon them, receive the spirit of adoption, have access to the throne of grace with boldness,[5] are enabled to cry, Abba, Father,[6] are pitied,[7] protected,[8] provided for,[9] and chastened by Him as by a Father:[10] yet never cast off,[11] but sealed to the day of redemption;[12] and inherit the promises,[13] as heirs of everlasting salvation.[14]
+m
+
 2. What is the meaning of Romans 8:16-17?
 3. Are we true children of God if we are not chastened for disobedience?
 4. What is the significance of calling God Abba?
