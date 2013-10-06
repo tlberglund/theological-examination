@@ -203,12 +203,16 @@ m
 ### Chapter 13: Sanctification
  
 1. **How does Scripture (WSC) define sanctification?**
+Being in the likeness of Christ ([Romans 6:5](http://www.esvbible.org/Romans+6%3A5/)); having the old man crucified/destroying the body of sin ([Romans 6:6](http://www.esvbible.org/Romans+6%3A6/)); crucifying the flesh with its affections and lusts ([Gal 5:24](http://www.esvbible.org/Galatians+5%3A24/)); strengthened with all might, endurance, patience, joy; ([Col 1:11](http://www.esvbible.org/Colossians+1%3A11/)); bringing holiness to completion in the fear of God ([1 Cor 7:1](http://www.esvbible.org/2+Corinthians+7%3A1/)).
+
 2. What means does God use in sanctification?
 3. **Is sanctification of God’s grace entirely? What are the means of grace?**
+Sanctification is syngerstic, just as justification is monergistic. To be sanctified, I agree to participate in and cooperate with the means of grace: prayer, fellowship, the Sacraments, the Word (preached and read individually), singing, exhorting, etc.
+
 4. How is sanctification different from justification?
 5. How does the Law of God relate to my sanctification?
 6. **Can Christ be Savior yet not Lord over believer?**
-
+For a few minutes, sure; but not in the long term. [James 2:14-26](http://www.esvbible.org/James+2%3A14-26/) makes it clear that faith entails works also.
 
 ### Chapter 14: Saving Faith
 
