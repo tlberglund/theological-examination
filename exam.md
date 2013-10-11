@@ -437,16 +437,20 @@ Yes.
 ### Chapter 29: The Lord's Supper
  
 1. **What is the Lord's Supper?**
+A sacrament in which we commemorate the death of Christ and feed spiritually on him.
+
 2. What is its significance?
 3. Distinguish the Lord's Supper from the Roman Catholic doctrine of the Mass.  
 4. What is meant by the real presence of Christ in the Supper?
 5. **Who should partake of the Lord's Supper?**
+Baptized Christians who are capable of understanding the signficance of the sacrament at least a little bit.
+
 6. Should one partake who has not been baptized?
 7. How does the Lord's Supper speak of commemoration, communion, and consummation?
 8. How does the preaching of the Word relate to the Lord's Supper?
 9. What is the required preparation for partaking?
 10. **What is "fencing" the Table?**
- 
+Explaining to the gathered body that only believers in Christ should partake. It is protecting the unbeliever from the condemnation that results from improperly receiving the sacrament.
 
 ### Chapter 30: Church Censures
  
