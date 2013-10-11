@@ -323,7 +323,11 @@ Yes, not by rules made up (and people are wont to make up such).
 ### Chapter 21: Worship and the Sabbath Day
  
 1. **What is the significance of: "the acceptable way of worshiping the true God is instituted by Himself, and so limited by His own revealed will, that  He may not be worshipped according to the imaginations and devices of men, or the suggestions of Satan, under any visible representation, or any other way not prescribed by the Holy Scripture"?**
+This is a statement of the _Regulative Principal of Worship_. It means that God is free to determine, and has revealed in his written Word, the manner in which he may be worshipped. It is possible to worship the true God in the wrong way, and it is wrong to do so.
+
 2. **Who is the only object of worship?**
+God.
+
 3. What are the parts of worship?
 4. How do I sanctify the Lord's Day?
 
