@@ -417,14 +417,21 @@ Yes.
 ### Chapter 28: Baptism
  
 1. **What is baptism?**
+A sacrament that admits a person to membership in the visible church.
+
 2. **What does it signify?**
+The benefits of membership in the New Covenant: death and resurrection, union to Christ, regeneration, remission of sins. It does not confer these things, but it points to them.
+
 3. How does baptism show God's grace?
 4. What is the outward element of its administration?
 5. Who are the proper subjects of baptism?
 6. How would you show an inquirer that infant baptism is a biblical doctrine?
 7. **Is the neglect of baptism a sin?**
+Yes.
+
 8. What is the significance of the Confessional statement that "the efficacy of baptism is not tied to that moment of time wherein it is administered"?
 9. **Are you personally committed to the doctrine of infant baptism?**
+Yes.
 
 
 ### Chapter 29: The Lord's Supper
