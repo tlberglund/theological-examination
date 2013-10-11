@@ -303,7 +303,7 @@ Yes.
 
 
 ### Chapter 20: Christian Liberty and Liberty of Conscience
- 
+
 1. **What is the liberty purchased by Christ for believers?**
   * Freedom from the guilt of sin
   * Freedom from the curse of the Law
@@ -312,13 +312,13 @@ Yes.
   * A great list in WCF 20.1!
 
 2. **In what way is the liberty of the believer under the new covenant greater than the liberty enjoyed by believers under the old covenant?**
-We are free from the curse of th  ceremonial law as well the moral law, and have fuller access to the Spirit.
+We are free from the curse of the ceremonial law as well the moral law, and have fuller access to the Spirit.
 
 3. **Who alone is LORD of the conscience?**
 God alone, yo.
 
 4. **Is the conscience to be regulated by God's written Word?**
-Yes, not by rules made up (and people are wont to make up such).
+Yes, not by rules made up by people (and people are wont to make up such).
 
 5.  What are the two limits of Christian liberty?
 
