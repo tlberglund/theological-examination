@@ -80,7 +80,7 @@ Yes.
 
 
 ### Chapter 6: The Fall of Man, Sin and its Punishment
- 
+
 1. What is the original sin?
 2. What are the effects of the fall?
 3. What is meant by original sin?
@@ -115,7 +115,7 @@ Yes. I take this phrase to mean that "covenant" is a useful theological concept 
 
 
 ### Chapter 8: Christ the Mediator
- 
+
 1. Why is Christ as Mediator necessary for the salvation of God's elect?
 2. What did Christ accomplish in His mediatorial office?
 3. Why was it necessary that the Mediator be fully human as well as fully divine?
@@ -137,7 +137,7 @@ Yes.
 
 
 ### Chapter 9: Free Will
- 
+
 1. **Under what circumstances is man free and in what sense not free?**
 Man is free to do what he wants. Man is not free to do other than what God has ordained.
 
@@ -167,7 +167,7 @@ Yes.
 
 
 ### Chapter 11: Justification
- 
+
 1. **Give a scriptural definition of justification.**
 A sinner believes God, and that faith is credited to the believer as righteousness. That is, the sin of the believer is exchanged with the righteousness of Christ as if in a legal transaction.
 
@@ -188,7 +188,7 @@ It means, despite my awful sin, I do not need to worry. God has saved _me_; I ha
 
 
 ### Chapter 12: Adoption
- 
+
 1. **What privileges do the Children of God enjoy?**
 Quoting from WCF Chapter 12:
 
@@ -201,7 +201,7 @@ m
 
 
 ### Chapter 13: Sanctification
- 
+
 1. **How does Scripture (WSC) define sanctification?**
 Being in the likeness of Christ ([Romans 6:5](http://www.esvbible.org/Romans+6%3A5/)); having the old man crucified/destroying the body of sin ([Romans 6:6](http://www.esvbible.org/Romans+6%3A6/)); crucifying the flesh with its affections and lusts ([Gal 5:24](http://www.esvbible.org/Galatians+5%3A24/)); strengthened with all might, endurance, patience, joy; ([Col 1:11](http://www.esvbible.org/Colossians+1%3A11/)); bringing holiness to completion in the fear of God ([1 Cor 7:1](http://www.esvbible.org/2+Corinthians+7%3A1/)).
 
@@ -229,7 +229,7 @@ Yes.
 
 
 ### Chapter 15: Repentance Unto Life
- 
+
 1. **Is repentance a grace?**
 An evangelical one, even! The doctrine whereof is to be preached by every minister of the Gospel, as well as that of faith in Christ. (WCF Chapter 15).
 
@@ -250,11 +250,22 @@ Death.
 
 
 ### Chapter 16: Good Works
- 
+
 1. **What is necessary for a work to be truly a good work?**
+  * That they be "such as God has commanded in His holy Word, and not such as, without the warrant thereof, are devised by men, out of blind zeal, or upon any pretence of good intention." (WCF 16.1) 
+  * The motives of a work must also be pure for the work to be good in the sight of God. (There are very few of these.)
+  * Has to be done in a right manner.
+  * Has to be done toward the end of God's glory.
+
 2. **Is man saved by his good works?**
+No.
+
 3. **Are good works necessary for salvation?**
+No.
+
 4. **Can a sinner without Christ do any good works? **
+No. A sinner can do outwardly (or "civically") good works that are identical in appearance to the good works that might be done in Christ, but mixed motives always taint those works. Ultimately they are not pleasing to God.
+
 5. Are the good works of believers meritorious?
 6. What is the relationship between good works and assurance?
 
@@ -269,35 +280,57 @@ Death.
 
 
 ### Chapter 18: Assurance of Grace and Salvation
- 
+
 1. Is it possible for the unregenerate to have an assurance of salvation?
 2. How may assurance of faith be hindered?
 3. **What results may be expected from true assurance?**
  
 
 ### Chapter 19: The Law of God
- 
+
 1. **What are the uses of the law?**
+  * A set of rules to show how to live a life pleasing to God
+  * Making our sin obvious to us
+  * To restrain what would otherwise be even more sin
+
 2. What is legalism?
 3. What is antinomianism?
 4. **Is mankind under obligation to the moral law of God?**
+Yes. 
+
 5. What is the present status of the ceremonial law?
 6. What does Paul mean in Romans 6:14: "For sin shall not be your master, because you are not under law, but under grace"?
 
 
 ### Chapter 20: Christian Liberty and Liberty of Conscience
- 
+
 1. **What is the liberty purchased by Christ for believers?**
+  * Freedom from the guilt of sin
+  * Freedom from the curse of the Law
+  * Freedom from the overwhelming power of sin
+  * Fuller communion with the Holy Spirit
+  * A great list in WCF 20.1!
+
 2. **In what way is the liberty of the believer under the new covenant greater than the liberty enjoyed by believers under the old covenant?**
+We are free from the curse of the ceremonial law as well the moral law, and have fuller access to the Spirit.
+
 3. **Who alone is LORD of the conscience?**
+God alone, yo.
+
 4. **Is the conscience to be regulated by God's written Word?**
+Yes, not by rules made up by people (and people are wont to make up such).
+
 5.  What are the two limits of Christian liberty?
 
 
 ### Chapter 21: Worship and the Sabbath Day
- 
+
 1. **What is the significance of: "the acceptable way of worshiping the true God is instituted by Himself, and so limited by His own revealed will, that  He may not be worshipped according to the imaginations and devices of men, or the suggestions of Satan, under any visible representation, or any other way not prescribed by the Holy Scripture"?**
+This is a statement of the _Regulative Principal of Worship_. It means that God is free to determine, and has revealed in his written Word, the manner in which he may be worshipped. It is possible to worship the true God in the wrong way, and it is wrong to do so.
+
 2. **Who is the only object of worship?**
+God.
+
 3. What are the parts of worship?
 4. How do I sanctify the Lord's Day?
 
@@ -310,7 +343,7 @@ Death.
   
 
 ### Chapter 23: The Civil Magistrate
- 
+
 1.  What is the basis of civil authority?
 2.  What is the purpose to which the civil magistrate is called to serve?
 3.  Is it lawful for a Christian to hold civil office?
@@ -318,27 +351,43 @@ Death.
 
 
 ### Chapter 24: Marriage and Divorce
- 
+
 1. **Demonstrate from Scripture that marriage is divinely instituted.**
+  * [Gen 1:27-28](http://www.esvbible.org/Genesis+1%3A27-28/)
+  * [Gen 2:18-25](http://www.esvbible.org/Genesis+2%3A18-25/)
+  * [Mt 19:1-12](http://www.esvbible.org/Matthew+19%3A1-12/)
+  * [1 Cor 7](http://www.esvbible.org/1+Corinthians+7/)
+
 2. **What is the purpose of marriage?**
+Mutual help of the wife and husband, making babies, and having a legitimate place in which to have sex.
+
 3. Is polygamy lawful?
 4. **Should a Christian and unbeliever marry?**
+No.
+
 5. **What are biblical reasons for divorce?**
-  
+Adultery and abandonment. (It is possible that there are more reasons for _divorce_, but these are the only circumstances in which remarriage is allowed.)
 
 ### Chapter 25: The Church
- 
+
 1. **What is the church?**
+All of the Elect gathered under Christ.
+
 2. **Distinguish between the visible and invisible aspects of the Church.**
+The visible church is the organization with buildings, property, hierarchy, members, and the like. The invisible church is all elect people. The visible church contains people not in the invisible church, and the invisible church (regrettably) contains people not in the visible church.
+
 3. **Are the infants of believers members of the church?**
+Yes. We baptize them to mark them as such.
+
 4. What are the marks of a Church?
 5. When is a professing Church no longer to be considered a true Church of Jesus Christ?
 6. What is a credible profession of faith?
 7. **Who is the Head and King of the Church?**
+Jesus Christ.
 
 
 ### Chapter 26: The Communion of Saints
- 
+
 1. What is union with Christ?
 2. What implications for the Church arise from union with Christ?
 3. **What are the duties of believers to one another?**
@@ -348,46 +397,66 @@ Death.
 
 
 ### Chapter 27: The Sacraments
- 
+
 1. **What is a sacrament?**
+  * A means of grace
+  * A visible sign of an invisible component of God's covenant with people
+
 2. What does the Confession mean by sacramental union?
 3. In what way are the sacraments necessary?
 4. What is the efficacy of the sacraments?
 5. **What are the biblical sacraments?**
-6. **How would you answer a Roman Catholic who claims there are seven  sacraments?**
+Baptism and the Lord's Supper.
+
+6. **How would you answer a Roman Catholic who claims there are seven sacraments?**
+This is a long discussion that ultimately returns to the question of authority. One can only have seven sacraments if the teaching of the church has greater authority than the Bible. If we subject the Church to the written Word, we get a smaller number.
+
 7. **Are the Old and New Testaments sacraments the same in substance?**
+Yes.
+
 8. How are the sacraments signs and seals?
 
 
 ### Chapter 28: Baptism
- 
+
 1. **What is baptism?**
+A sacrament that admits a person to membership in the visible church.
+
 2. **What does it signify?**
+The benefits of membership in the New Covenant: death and resurrection, union to Christ, regeneration, remission of sins. It does not confer these things, but it points to them.
+
 3. How does baptism show God's grace?
 4. What is the outward element of its administration?
 5. Who are the proper subjects of baptism?
 6. How would you show an inquirer that infant baptism is a biblical doctrine?
 7. **Is the neglect of baptism a sin?**
+Yes.
+
 8. What is the significance of the Confessional statement that "the efficacy of baptism is not tied to that moment of time wherein it is administered"?
 9. **Are you personally committed to the doctrine of infant baptism?**
+Yes.
 
 
 ### Chapter 29: The Lord's Supper
- 
+
 1. **What is the Lord's Supper?**
+A sacrament in which we commemorate the death of Christ and feed spiritually on him.
+
 2. What is its significance?
 3. Distinguish the Lord's Supper from the Roman Catholic doctrine of the Mass.  
 4. What is meant by the real presence of Christ in the Supper?
 5. **Who should partake of the Lord's Supper?**
+Baptized Christians who are capable of understanding the signficance of the sacrament at least a little bit.
+
 6. Should one partake who has not been baptized?
 7. How does the Lord's Supper speak of commemoration, communion, and consummation?
 8. How does the preaching of the Word relate to the Lord's Supper?
 9. What is the required preparation for partaking?
 10. **What is "fencing" the Table?**
- 
+Explaining to the gathered body that only believers in Christ should partake. It is protecting the unbeliever from the condemnation that results from improperly receiving the sacrament.
 
 ### Chapter 30: Church Censures
- 
+
 1. **What is the nature and extent of Church power?**
 2. **What are the two orders of Church officers?**
 3. **What is a Church censure?**
@@ -398,14 +467,14 @@ Death.
   
 
 ### Chapter 31: Synods and Councils
- 
+
 1.  Is Presbyterian Church government optional for the Church of Jesus Christ?
 2.  How is the unity of the Church expressed in its outward organization?
 3.  Upon what grounds does the believer in Christ owe obedience to the Church courts?
 
 
 ### Chapter 32: The State of Man After Death and the Resurrection of the Dead
- 
+
 1. **What happens to the body of the believer following death?**
 2. **Where do believers go immediately following death?**
 3. Where do unbelievers go?
@@ -416,7 +485,7 @@ Death.
   
 
 ### Chapter 33: The Last Judgment
- 
+
 1. Who will be judged at the general judgment?
 2. Who will be the judge?
 3. **How should we live in light of the return of Jesus Christ?**
