@@ -286,9 +286,15 @@ No. A sinner can do outwardly (or "civically") good works that are identical in 
 ### Chapter 19: The Law of God
  
 1. **What are the uses of the law?**
+  * A set of rules to show how to live a life pleasing to God
+  * Making our sin obvious to us
+  * To restrain what would otherwise be even more sin
+
 2. What is legalism?
 3. What is antinomianism?
 4. **Is mankind under obligation to the moral law of God?**
+Yes. 
+
 5. What is the present status of the ceremonial law?
 6. What does Paul mean in Romans 6:14: "For sin shall not be your master, because you are not under law, but under grace"?
 
