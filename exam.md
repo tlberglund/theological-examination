@@ -252,7 +252,10 @@ Death.
 ### Chapter 16: Good Works
  
 1. **What is necessary for a work to be truly a good work?**
-That they be "such as God has commanded in His holy Word, and not such as, without the warrant thereof, are devised by men, out of blind zeal, or upon any pretence of good intention." (WCF 16.1) The motives of a work must also be pure for the work to be good in the sight of God. (There are very few of these.)
+  * That they be "such as God has commanded in His holy Word, and not such as, without the warrant thereof, are devised by men, out of blind zeal, or upon any pretence of good intention." (WCF 16.1) 
+  * The motives of a work must also be pure for the work to be good in the sight of God. (There are very few of these.)
+  * Has to be done in a right manner.
+  * Has to be done toward the end of God's glory.
 
 2. **Is man saved by his good works?**
 No.
