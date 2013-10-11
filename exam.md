@@ -368,12 +368,19 @@ Adultery and abandonment. (It is possible that there are more reasons for _divor
 ### Chapter 25: The Church
  
 1. **What is the church?**
+All of the Elect gathered under Christ.
+
 2. **Distinguish between the visible and invisible aspects of the Church.**
+The visible church is the organization with buildings, property, hierarchy, members, and the like. The invisible church is all elect people. The visible church contains people not in the invisible church, and the invisible church (regrettably) contains people not in the visible church.
+
 3. **Are the infants of believers members of the church?**
+Yes. We baptize them to mark them as such.
+
 4. What are the marks of a Church?
 5. When is a professing Church no longer to be considered a true Church of Jesus Christ?
 6. What is a credible profession of faith?
 7. **Who is the Head and King of the Church?**
+Jesus Christ.
 
 
 ### Chapter 26: The Communion of Saints
@@ -389,12 +396,21 @@ Adultery and abandonment. (It is possible that there are more reasons for _divor
 ### Chapter 27: The Sacraments
  
 1. **What is a sacrament?**
+  * A means of grace
+  * A visible sign of an invisible component of God's covenant with people
+
 2. What does the Confession mean by sacramental union?
 3. In what way are the sacraments necessary?
 4. What is the efficacy of the sacraments?
 5. **What are the biblical sacraments?**
-6. **How would you answer a Roman Catholic who claims there are seven  sacraments?**
+Baptism and the Lord's Supper.
+
+6. **How would you answer a Roman Catholic who claims there are seven sacraments?**
+This is a long discussion that ultimately returns to the question of authority. One can only have seven sacraments if the teaching of the church has greater authority than the Bible. If we subject the Church to the written Word, we get a smaller number.
+
 7. **Are the Old and New Testaments sacraments the same in substance?**
+Yes.
+
 8. How are the sacraments signs and seals?
 
 
