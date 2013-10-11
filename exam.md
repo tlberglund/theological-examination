@@ -252,9 +252,17 @@ Death.
 ### Chapter 16: Good Works
  
 1. **What is necessary for a work to be truly a good work?**
+That they be "such as God has commanded in His holy Word, and not such as, without the warrant thereof, are devised by men, out of blind zeal, or upon any pretence of good intention." (WCF 16.1) The motives of a work must also be pure for the work to be good in the sight of God. (There are very few of these.)
+
 2. **Is man saved by his good works?**
+No.
+
 3. **Are good works necessary for salvation?**
+No.
+
 4. **Can a sinner without Christ do any good works? **
+No. A sinner can do outwardly (or "civically") good works that are identical in appearance to the good works that might be done in Christ, but mixed motives always taint those works. Ultimately they are not pleasing to God.
+
 5. Are the good works of believers meritorious?
 6. What is the relationship between good works and assurance?
 
