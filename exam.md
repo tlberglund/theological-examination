@@ -350,11 +350,20 @@ God.
 ### Chapter 24: Marriage and Divorce
  
 1. **Demonstrate from Scripture that marriage is divinely instituted.**
+  * [Gen 1:27-28](http://www.esvbible.org/Genesis+1%3A27-28/)
+  * [Gen 2:18-25](http://www.esvbible.org/Genesis+2%3A18-25/)
+  * [Mt 19:1-12](http://www.esvbible.org/Matthew+19%3A1-12/)
+  * [1 Cor 7](http://www.esvbible.org/1+Corinthians+7/)
+
 2. **What is the purpose of marriage?**
+Mutual help of the wife and husband, making babies, and having a legitimate place in which to have sex.
+
 3. Is polygamy lawful?
 4. **Should a Christian and unbeliever marry?**
+No.
+
 5. **What are biblical reasons for divorce?**
-  
+Adultery and abandonment. (It is possible that there are more reasons for _divorce_, but these are the only circumstances in which remarriage is allowed.)
 
 ### Chapter 25: The Church
  
