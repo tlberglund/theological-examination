@@ -476,7 +476,11 @@ Explaining to the gathered body that only believers in Christ should partake. It
 ### Chapter 32: The State of Man After Death and the Resurrection of the Dead
 
 1. **What happens to the body of the believer following death?**
+It decays, just like you'd expect.
+
 2. **Where do believers go immediately following death?**
+In the spiritual presence of God.
+
 3. Where do unbelievers go?
 4. Will an unbeliever ever have a "Second opportunity" to escape the punishment due him for his sin?
 5. Did Christ bodily rise from the grave? Show from Scripture.
