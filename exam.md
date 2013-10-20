@@ -458,12 +458,24 @@ Explaining to the gathered body that only believers in Christ should partake. It
 ### Chapter 30: Church Censures
 
 1. **What is the nature and extent of Church power?**
+To hold the [keys to the Kingdom of Heaven](http://www.esvbible.org/Matthew+16%3A19/). Church power extends over the church, and is distinct from State power.
+
 2. **What are the two orders of Church officers?**
+
+
 3. **What is a Church censure?**
+Something in the sequence of admonition, withholding of the Lord's Supper, and excommunication.
+
 4. **Why is Church discipline necessary?**
+  * Restore people who are indulging unrepented-for sin
+  * Keeping such from affecting the whole body
+  * "Vinicating the honor of Christ"
+  * Generally avoiding wrath
+
 5. What are the biblical steps of Church discipline?
 6. Are Christian love and discipline for offenses compatible?
 8. **Are you personally committed to Church discipline?**
+Yes.
   
 
 ### Chapter 31: Synods and Councils
